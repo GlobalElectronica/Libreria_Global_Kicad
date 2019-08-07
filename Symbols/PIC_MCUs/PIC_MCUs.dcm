@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F45K40-I_PT
+D MCU Microcontroller PIC Microcontrolador Global Chile Electronica
+K MCU, PIC, 18F
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf
+$ENDCMP
+#
+#End Doc Library
