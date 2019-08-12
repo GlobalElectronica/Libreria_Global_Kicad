@@ -1,15 +1,12 @@
-07/08/2019
+11/08/2019
 
-Añadidos footprint de conversores DCDC:
+Corregido footprint en board outlines por error que generaba advertencia en DRC:
 
-LM2596_MOD Para:
+Código Global	Dimensiones
+170-180356	115x90x60MM
 
-Código Global	Módulo
-251-6009	XL6009
-251-2596	LM2596
+Añadidos symbols de Microcontroladores PIC:
 
-Añadidos symbols de conversores DCDC presentes en footprint y para Microcontroladores PIC:
+Código Global		Librería	Modelo
 
-Librería de Símbolos
-
-PIC_MCUs	PIC18F45K40-I/PT
+043-18F45K40		PIC_MCUs	PIC18F45K40-I/P
