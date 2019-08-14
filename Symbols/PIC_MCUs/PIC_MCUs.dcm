@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PIC18F25K40-I_SP
+D MCU Microcontroller PIC Microcontrolador Global Chile Electronica
+K MCU PIC 18F PIC18F DIP28 DIP-28
+F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf
+$ENDCMP
+#
 $CMP PIC18F45K40-IP
 F http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18LF26-45-46K40-Data-Sheet-DS40001816F.pdf
 $ENDCMP

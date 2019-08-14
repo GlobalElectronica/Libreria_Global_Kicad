@@ -1,12 +1,19 @@
 11/08/2019
 
-Corregido footprint en board outlines por error que generaba advertencia en DRC:
+Creados nuevos footprint en Microcontroladores/ESP:
 
-Código Global	Dimensiones
-170-180356	115x90x60MM
+Código Global	Librería	Modelo
+043-ESP12E	ESP		ESP12E
+043-ESP12F	ESP		ESP12F
+043-ESP32MOD	ESP		ESP-WROOM-32
+
+Cambiado nombre MP2307 en librería de conversores DCDC y creado nuevo directorio de módulos:
+
+Código Global	Librería			Modelo	Nombre
+251-MP2307	Modulos/Conversores_DCDC	MP2307	MP2307_MOD
 
 Añadidos symbols de Microcontroladores PIC:
 
 Código Global		Librería	Modelo
 
-043-18F45K40		PIC_MCUs	PIC18F45K40-I/P
+043-18F25K40		PIC_MCUs	PIC18F25K40-I/SP
